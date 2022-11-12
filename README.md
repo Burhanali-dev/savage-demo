@@ -1,4 +1,7 @@
-![21 Savage](public/21savage.jpg)
+![Screenshot (23)](https://user-images.githubusercontent.com/113322000/201487578-7b932759-9e29-4b53-8160-67aca0f0de8e.png)
+
+
+user is able to like/dislike and delete message
 
 ## Installation
 
